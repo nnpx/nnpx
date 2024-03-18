@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm stepping into field of Full-Stack Web Developer, eqipped with skills in HTML/CSS, ReactJS, NodeJS, ExpressJS, and diverse soft skills. Currently exploring other area of computer science, including Data Science and AI.
+I'm stepping into field of Full-Stack Web Developer, eqipped with skills in HTML/CSS, ReactJS, NodeJS, ExpressJS, and diverse soft skills. Currently exploring other areas of computer science, including Data Science and AI.
 
 <!--
 **nnpx/nnpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
