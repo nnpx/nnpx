@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm stepping into field of Full-Stack Web Developer, eqipped with skills in HTML/CSS, ReactJS, NodeJS, ExpressJS, and diverse soft skills. Currently exploring other areas of computer science, including Data Science and AI.
+I'm currently exploring in the field of Full-Stack Web Development, eqipped with skills in HTML/CSS, ReactJS, NodeJS, ExpressJS, and diverse soft skills. Currently exploring other areas of computer science, including Data Science and AI.
+
+- 📫 How to reach me: nannapas.suw@gmail.com | (+66)93-138-9774
 
 <!--
 **nnpx/nnpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
