@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently exploring in the field of Full-Stack Development and Software Engineer, with an interest in the field of data.
+I'm currently exploring in the field of Full-Stack Development and Software Engineer, with an interest in the fields of data and AI.
+I'm an open-minded, humbled, and eager-to-learn second year student studying Digital Engineering at Sirindhorn International Institute of Technology (SIIT), Thammasat University.
 
 - 📫 How to reach me: nannapas.suw@gmail.com
 
