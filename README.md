@@ -20,6 +20,7 @@ I'm open-minded, humbled, and eager-to-learn.
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
 </p>
 
 ### Backend:
