@@ -33,15 +33,23 @@ I'm open-minded, enthusiastic, and eager-to-learn.
 
 ### Database:
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 </p>
 
+### AI Development:
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1D3C3E?logo=LangChain&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=LangGraph&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Agent Development Kit (Google ADK)-4285F4?style=flat" />
+</p>
+
 ### Programming Languages:
 <p>
-  <img src="https://img.shields.io/badge/Java-f89b24?logo=mocha&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Java-f89b24?logo=mocha&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat" />
 </p>
 
