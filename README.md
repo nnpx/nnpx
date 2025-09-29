@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently exploring in the field of Backend Development and Software Engineer, with an interest in the fields of data and AI.
+I'm currently exploring in the field of Backend and Full-Stack Development, with an interest in the fields of data and AI.
 
 I'm open-minded, enthusiastic, and eager-to-learn.
 
