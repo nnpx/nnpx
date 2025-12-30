@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently exploring in the field of Backend and Full-Stack Development, with an interest in the fields of data and AI.
+I'm currently exploring in the field of Backend and Full-Stack Development, with an interest in the fields of AI and Data.
 
-I'm open-minded, enthusiastic, and eager-to-learn.
+I'm open-minded, enthusiastic, and eager-to-learn!
 
 - 📫 How to reach me: nannapas.suw@gmail.com
 
