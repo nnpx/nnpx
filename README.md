@@ -57,13 +57,14 @@ I'm open-minded, enthusiastic, and eager-to-learn!
 <p>
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/VS Code-0078d7?style=flat" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/PGadmin-396c94?logo=postgresql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Figma-AE4DFF?logo=figma&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PGadmin-396c94?logo=pgadmin&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/DBeaver-a08470?logo=dbeaver&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=flat" />
-   VS Code
 </p>
 
 <!--
