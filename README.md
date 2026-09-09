@@ -28,6 +28,7 @@ I'm open-minded, enthusiastic, and eager-to-learn!
   Frameworks and Libraries:
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?logo=Zod&logoColor=white&style=flat" />
 </p>
 
@@ -35,7 +36,8 @@ I'm open-minded, enthusiastic, and eager-to-learn!
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/DrizzleORM-C5F74F?logo=drizzle&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/ExposedORM-7F52FF?logo=exposed&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 </p>
 
@@ -57,6 +59,7 @@ I'm open-minded, enthusiastic, and eager-to-learn!
 <p>
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/gitlab-gray?logo=gitlab&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/VS Code-0078d7?style=flat" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Figma-AE4DFF?logo=figma&logoColor=white&style=flat" />
